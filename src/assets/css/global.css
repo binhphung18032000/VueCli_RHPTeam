@@ -336,12 +336,14 @@ body {
 }
 
 .error-text {
-  margin-top: 0.25rem;
+  font-size: 14px;
+  margin-top: 0.75rem;
   color: var(--error);
 }
 
 .success-text {
-  margin-top: 0.25rem;
+  font-size: 14px;
+  margin-top: 0.75rem;
   color: var(--primary);
 }
 
